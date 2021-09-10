@@ -6,7 +6,9 @@ The main idea is on every insertion to traverse the grid, prioritizing row-wise,
 
 In order to traverse the grid with items, the matrix representation of both of them together is built before each insertion.
 
-The programm using React, Typescript and Chakra UI was built on top of this algorythm realisation, so users can try it out.
+The programm using React, Typescript, Next JS and Chakra UI was built on top of this algorythm realisation, so users can try it out.
+
+
 
 ## Demo
 
@@ -14,7 +16,7 @@ The programm using React, Typescript and Chakra UI was built on top of this algo
 
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+Used simple command to setup everything with Chakra:
 
 ```bash
 npx create-next-app --example with-chakra-ui with-chakra-ui-app
